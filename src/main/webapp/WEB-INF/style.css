@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+body {
+	font-family: Tahoma, sans-serif;
+	background:url("https://img.freepik.com/free-photo/green-product-background_53876-90135.jpg?w=2000&t=st=1674899877~exp=1674900477~hmac=e052c0a60b6005a5480c4ce5caf59447d2426190bc4458f4884ca1c8a371421e");
+	background-size:cover;
+	background-attachment: fixed;
+}
+img{
+    animation: move 2s;
+}
+@keyframes move{
+    from{transform:translateX(-100%)}
+    to{transform:translateX(0)}
+}
+
+@keyframes welcome-animation {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.textboxstyle {
+width: 200px;
+padding: 5px;
+margin: 5px;
+border: 3px solid black;
+}
+
+h1 {
+  animation: welcome-animation 2s ease-in-out;
+  font-size: 3em;
+  text-align: center;
+}
+
+.welcome-animation {
+    animation: welcome-animation 2s ease-in-out;
+}
+.animated-message {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  position: relative;
+}
+
+.animated-message h1 {
+  font-size: 36px;
+  color: green;
+  text-transform: uppercase;
+  animation: message-animation 2s ease-in-out;
+}
+
+.animated-message h1:nth-of-type(2) {
+  color: #333;
+  font-size: 25px;
+}
+
+@keyframes message-animation {
+  from {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+h1 {
+  font-family: 'Montserrat', sans-serif; /* Use a unique font style */
+  font-weight: bold; /* Make the text bold */
+  color: #000000; /* Use a different color */
+  text-shadow: 2px 2px #aaa; /* Add a text shadow */
+  text-transform: uppercase; /* Capitalize all letters */
+  letter-spacing: 2px; /* Increase the spacing between letters */
+}
+h1:hover {
+  transform: rotate(360deg); /* Rotate the text on hover */
+  transition: transform 0.5s ease; /* Add a transition effect */
+}
+
+img {
+  background-color: transparent;
+}
+
