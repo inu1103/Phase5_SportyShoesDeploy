@@ -2,7 +2,7 @@
 
 body {
 	font-family: Tahoma, sans-serif;
-	background:url("https://img.freepik.com/free-photo/green-product-background_53876-90135.jpg?w=2000&t=st=1674899877~exp=1674900477~hmac=e052c0a60b6005a5480c4ce5caf59447d2426190bc4458f4884ca1c8a371421e");
+	background:url("https://media.istockphoto.com/id/1331579485/vector/background-curved-light-blue.jpg?s=612x612&w=0&k=20&c=Wslr-PIxcQDoxXmzC7_w8rbFM9_s_5Jz99tE3ftNM1A=");
 	background-size:cover;
 	background-attachment: fixed;
 }
@@ -76,10 +76,7 @@ h1 {
   text-transform: uppercase; /* Capitalize all letters */
   letter-spacing: 2px; /* Increase the spacing between letters */
 }
-h1:hover {
-  transform: rotate(360deg); /* Rotate the text on hover */
-  transition: transform 0.5s ease; /* Add a transition effect */
-}
+
 
 img {
   background-color: transparent;

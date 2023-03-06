@@ -19,16 +19,16 @@
 	<%@include file="homeHeader.jsp"%>
 	<hr>
 		<a href="menshoes" > 
-				<img src="https://img.freepik.com/premium-photo/new-yellow-foxy-leather-suede-casual-sport-male-sneakers-white-background_555047-1459.jpg?w=2000" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+				<img src="https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/l/u/c/10-8050-black-red-waan-black-red-original-imag5psezyhhwwks-bb.jpeg?q=70" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
 		</a>
 
 		<a href="womenshoes">
-				<img src="https://img.freepik.com/free-photo/basic-white-sneakers-unisex-streetwear-fashion-shoot_53876-102115.jpg?w=2000&t=st=1674983322~exp=1674983922~hmac=a16592d4eaec6f1bc07871367893c26b1d91dc687b23cfb39f09eb3b79009bfa" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+				<img src="https://m.media-amazon.com/images/I/71F7113ZT3L._AC_SX466_.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 		</a>
 
 		<a href="kidshoes" > 
-		<img src="https://img.freepik.com/free-photo/baby-shoes_1203-6837.jpg?w=2000&t=st=1674982167~exp=1674982767~hmac=cda475f7832088e802b6ed0b3c66e086e4214b145f7b4f0d0787770a559f8e5f" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+		<img src="https://images.meesho.com/images/products/163991628/lnxof_512.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 		</a>
 		<div class="footer">
   		<p>Copyright © SportyShoes. All rights reserved.</p>
